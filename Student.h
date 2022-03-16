@@ -5,6 +5,7 @@ private:
        int studentId;
   //    name <- 20 charcters
         char studentName[20];
+
   // public section
 public:
   //    assignDetails() method declaration

@@ -10,6 +10,7 @@ void Student:: assignDetails(int no,char name[])
   strcpy(studentName,name);
   
 }
+
 // Display StudentId and Name
 void Student::display() 
 {
