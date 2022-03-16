@@ -4,7 +4,6 @@
 using namespace std;
 
 // Implement setters and getters
-
 void Box::setLength(int l)
 {
   length=l;
